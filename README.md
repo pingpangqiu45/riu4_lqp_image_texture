@@ -46,7 +46,7 @@ RIU4-LQP/
 
 ## Installation
 
-git clone https://github.com/yourusername/riu4-lqp.git
+git clone https://github.com/pingpangqiu45/riu4-lqp.git
 cd riu4-lqp
 
 pip install -r requirements.txt
